@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reza-hadipour//graphql-expres-4aproachs.git"
+    "url": "git+https://github.com/reza-hadipour/graphql-expres-4aproachs.git"
   },
   "keywords": [],
   "author": "Reza Hadipour",
-  "repository": {},
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.10.0",

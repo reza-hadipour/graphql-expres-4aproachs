@@ -1,0 +1,23 @@
+{
+  "name": "gql2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Reza Hadipour",
+  "repository": {},
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "apollo-server-core": "^3.13.0",
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "graphql-http": "^1.22.0",
+    "graphql-playground-middleware-express": "^1.7.23"
+  },
+  "description": ""
+}

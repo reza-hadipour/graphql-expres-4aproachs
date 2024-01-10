@@ -6,6 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reza-hadipour//graphql-expres-4aproachs.git"
+  },
   "keywords": [],
   "author": "Reza Hadipour",
   "repository": {},
